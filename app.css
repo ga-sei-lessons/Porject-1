@@ -1,10 +1,7 @@
 @font-face {
     font-family: pokemon;
     src: url(pokemon.ttf);
-} {
-    font-family: pokemon;
-    src: url(pokemon.ttf);
-}
+} 
 
 .container {
 
