@@ -1,4 +1,4 @@
-# Poke Match
+# Pikachu Memory Mayhem
 ![Screenshot 2023-03-19 at 6 16 23 PM](https://user-images.githubusercontent.com/81389644/226226411-81448628-c9d6-49d9-bb7a-e96dd56cef7d.png)
 # MVP
 * A grid of cards with Pokemon images on them
