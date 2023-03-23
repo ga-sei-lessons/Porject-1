@@ -1,5 +1,5 @@
 # Pikachu Memory Mayhem
-![Screenshot 2023-03-19 at 6 16 23 PM](https://user-images.githubusercontent.com/81389644/226226411-81448628-c9d6-49d9-bb7a-e96dd56cef7d.png)
+![Screenshot 2023-03-23 at 2 21 05 PM](https://user-images.githubusercontent.com/81389644/227365721-87ec7e1b-8be0-4aa5-8757-a75587add35f.png)
 # MVP
 * A grid of cards with Pokemon images on them
 * Clicking on a card would flip it over to reveal its hidden image
