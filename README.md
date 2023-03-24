@@ -14,4 +14,4 @@
 * Different themes or skins, such as different generations of Pokemon or different regions from the Pokemon world
 # Tech Being Used
 
-HTML/DOM - CSS - JavaScript
+HTML - CSS/flex - JavaScript
