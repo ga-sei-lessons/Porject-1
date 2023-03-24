@@ -6,7 +6,7 @@
 # MVP
 * A grid of cards with Pokemon images on them
 * Clicking on a card would flip it over to reveal its hidden image
-* Clicking on a second card would also flip it over, and if the two cards match, they would disappear from the grid
+* Clicking on a second card would also flip it over, and if the two cards match, they would remain flipped
 * If the two cards don't match, they would flip back over to their hidden state
 * A button to start a new game
 # Potential stretch goals
